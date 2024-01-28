@@ -1,4 +1,4 @@
-# Course: Vue MAstery Nuxt 3 Fullstack
+# Course: Vue Mastery Nuxt 3 Fullstack
 
 This project contains the complete code for the following [course](https://www.vuemastery.com/courses/nuxt-3-server).
 
